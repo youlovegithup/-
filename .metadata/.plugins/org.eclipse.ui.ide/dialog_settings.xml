@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\Users\ASUS\Desktop\wode\宜立方商城（80-93天）\e3商城_day01\黑马32期\01.教案-3.0\01.参考资料\mybatis\逆向工程\generatorSqlmapCustom"/>
+			<item value="D:\jee-photon\Servers"/>
+			<item value="C:\Users\ASUS\Desktop\wode\商城\淘淘商城项目(有源码)\项目二：宜立方商城（80-93天）\e3商城_day02\项目二_day02\source\e3-manager-web"/>
+			<item value="C:\Users\ASUS\Desktop\wode\商城\淘淘商城项目(有源码)\项目二：宜立方商城（80-93天）\e3商城_day02\项目二_day02\source\e3-manager"/>
+			<item value="C:\Users\ASUS\Desktop\wode\商城\淘淘商城项目(有源码)\项目二：宜立方商城（80-93天）\e3商城_day02\项目二_day02\source\e3-common"/>
+			<item value="C:\Users\ASUS\Desktop\wode\商城\淘淘商城项目(有源码)\项目二：宜立方商城（80-93天）\e3商城_day02\项目二_day02\source\e3-parent"/>
+			<item value="C:\Users\ASUS\Desktop\淘淘商城项目(有源码)\】项目源码"/>
+			<item value="C:\Users\ASUS\Desktop\淘淘商城项目(有源码)\源代码"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\ASUS\Desktop\wode\宜立方商城（80-93天）\e3商城_day01\黑马32期\01.教案-3.0\01.参考资料\mybatis\pagehelper-fix.zip"/>
+			<item value=""/>
+			<item value="C:\Users\ASUS\Desktop\wode\宜立方商城（80-93天）\e3商城_day02\项目二_day02\source.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>
